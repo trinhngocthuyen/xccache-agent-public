@@ -4,4 +4,4 @@ The macOS app for [XCCache](https://github.com/trinhngocthuyen/xccache) - a cach
 
 Change Log: [here](/CHANGELOG.md).
 
-![workflow_basic](res/workflow_basic.gif)
+https://github.com/user-attachments/assets/ce0b2f63-852a-42ec-9b08-7f5ae2474b7b
