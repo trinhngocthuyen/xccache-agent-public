@@ -1,7 +1,7 @@
-# XCCacheAgent
+# <img src="icon.png" alt="XCCacheAgent" width="32" height="32" style="vertical-align: middle;"> XCCacheAgent
 
-The macOS app for [XCCache](https://github.com/trinhngocthuyen/xccache) - a caching tool for Xcode projects but with SPM support.
+A macOS app that **caches** Swift Package Manager (SPM) dependencies as **xcframeworks** to accelerate Xcode build times.
 
-Change Log: [here](/CHANGELOG.md).
+Learn more about this tool: https://xccache.trinhngocthuyen.com
 
 https://github.com/user-attachments/assets/ce0b2f63-852a-42ec-9b08-7f5ae2474b7b
